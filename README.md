@@ -6,7 +6,7 @@
     "files.autoSave": "afterDelay", // ( habilita o salvamento automático )
     "explorer.confirmDelete": false, // ( desabilita a pergunta de confirmar para deletar um arquivo )
     "git.enableSmartCommit": true, // ( habilita a função start commit )
-    "javascript.updateImportsOnFileMove.enabled": "always", // ( habilita função de atualizar os imports de um arquivo javascript )
+    "javascript.updateImportsOnFileMove.enabled": "always", // ( habilita função de atualizar os imports de um arquivo js )
 
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
